@@ -7,7 +7,7 @@ about:
   head: 506085b
   archived: false
   latestVersion: v1.18.4
-  collectedAt: 2026-09-04T19:22:00Z
+  collectedAt: 2026-09-04T21:21:32Z
 timeline:
   created: 2024-05-04
   lastCommit: 2025-03-16
@@ -82,5 +82,38 @@ total:
   openIssue: 1
   commit: 175
 ---
+path: /home/runner/.x-repo/github.com/pommee/Pocker
+collectedAt: 2026-09-04T21:21:32Z
+loc:
+  Python:
+    code: 2052
+    comments: 14
+    blanks: 432
+    files: 16
+  Sh:
+    code: 38
+    comments: 1
+    blanks: 5
+    files: 1
+  Toml:
+    code: 35
+    comments: 0
+    blanks: 5
+    files: 1
+  Makefile:
+    code: 7
+    comments: 0
+    blanks: 3
+    files: 1
+  Markdown:
+    code: 0
+    comments: 275
+    blanks: 268
+    files: 2
+total:
+  code: 2137
+  comments: 290
+  blanks: 713
+  files: 21
 ---
 
