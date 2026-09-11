@@ -120,4 +120,3 @@ total:
 ---
 
 ---
-{"id":206091033,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOL3EsO84MSLMZ","tag_name":"v1.18.4","target_commitish":"main","name":"v1.18.4","draft":false,"immutable":false,"prerelease":false,"created_at":"2025-03-16T14:04:21Z","updated_at":"2025-03-16T14:04:23Z","published_at":"2025-03-16T14:04:23Z","assets":[],"body":"## [1.18.4](https://github.com/pommee/Pocker/compare/v1.18.3...v1.18.4) (2025-03-16)\n\n\n### Bug Fixes\n\n* use pywinpty for windows ([72343c4](https://github.com/pommee/Pocker/commit/72343c4fb7946edb04626ff8ada6b10c06534785))\n\n\n\n"}
